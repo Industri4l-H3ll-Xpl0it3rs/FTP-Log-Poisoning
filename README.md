@@ -1,4 +1,4 @@
-# FTP-Log-Poisoning
+# FTP Log Poisoning
 
 xpl0ited by [infrar3d](https://github.com/Infrar3dd)
 
