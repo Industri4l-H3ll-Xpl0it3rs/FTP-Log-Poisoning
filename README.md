@@ -24,6 +24,8 @@ options:
 ```
 Example:
 
+![](https://github.com/Industri4l-H3ll-Xpl0it3rs/FTP-Log-Poisoning/blob/main/Example.jpg)
+
 ### ⚠️ Disclaimer ⚠️
 
 This software and proof-of-concept code is provided **for educational and research purposes only**. 
