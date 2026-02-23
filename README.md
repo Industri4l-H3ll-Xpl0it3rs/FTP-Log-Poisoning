@@ -6,6 +6,8 @@ xpl0ited by [infrar3d](https://github.com/Infrar3dd)
 
 It works if text from LFI was read like a PHP code.
 
+This tool will help you open a revers shell in the same terminal with ```--shell``` flag and ```--lport``` to open the listener on this port
+
 ```bash
 python3 ftp_log_poisoning.py --help
 usage: ftp_log_poisoning.py [-h] -u URL -p PORT -c COMMAND [--shell] [-l LPORT]
