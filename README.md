@@ -6,7 +6,7 @@ xpl0ited by [infrar3d](https://github.com/Infrar3dd)
 
 It works if text from LFI was read like a PHP code.
 
-This exploit will help you open a revers shell in the same terminal with ```--shell``` flag and ```--lport``` to open the listener on this port
+This exploit will help you open a revers shell in the same terminal with `--shell` flag and `--lport` to open the listener on this port
 
 ### Usage:
 
