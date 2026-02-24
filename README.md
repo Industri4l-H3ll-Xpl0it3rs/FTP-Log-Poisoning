@@ -8,6 +8,8 @@ It works if text from LFI was read like a PHP code.
 
 This exploit will help you open a revers shell in the same terminal with ```--shell``` flag and ```--lport``` to open the listener on this port
 
+### Usage:
+
 ```bash
 python3 ftp_log_poisoning.py --help
 usage: ftp_log_poisoning.py [-h] -u URL -p PORT -c COMMAND [--shell] [-l LPORT]
@@ -24,7 +26,8 @@ options:
   -l, --lport LPORT     Listen port
 
 ```
-Example:
+
+### Example:
 
 ![](https://github.com/Industri4l-H3ll-Xpl0it3rs/FTP-Log-Poisoning/blob/main/Example.jpg)
 

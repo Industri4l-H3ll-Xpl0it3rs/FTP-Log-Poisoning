@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+
+# FTP Log Poisoning exploit
+
 from ftplib import FTP
 import subprocess
 import threading
